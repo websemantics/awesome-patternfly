@@ -4,19 +4,38 @@
   / /| | | /| / / _ \/ ___/ __ \/ __ `__ \/ _ \   / /_/ / __ `/ __/ __/ _ \/ ___/ __ \/ /_  / / / / /
  / ___ | |/ |/ /  __(__  ) /_/ / / / / / /  __/  / ____/ /_/ / /_/ /_/  __/ /  / / / / __/ / / /_/ /
 /_/  |_|__/|__/\___/____/\____/_/ /_/ /_/\___/  / /    \__,_/\__/\__/\___/_/  /_/ /_/_/   /_/\__, /  
-                                               /_/ A curated list of widgets and resources  /____/   
+                                               /_/ A curated list of resources & projects   /____/   
 ```
 > Updated: July 9, 2016
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of [PatternFly](https://www.patternfly.org) widgets and resources. The main idea is that everyone can contribute here, so we can have a central repository of informations about PatternFly that we keep up-to-date.
+> A curated list of [PatternFly](https://www.patternfly.org) resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about PatternFly that we keep up-to-date.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-## Widgets
+## Resources
 
-- [Example](https://github.com/example): Example text.
+- [PatternFly](https://www.patternfly.org): A community of designers and developers collaborating to build a UI framework for enterprise web applications.
+
+- [Angular PatternFly](https://github.com/patternfly/angular-patternfly): A set of common AngularJS directives for use with the PatternFly reference implementation.
+
+- [PatternFly SASS](https://github.com/patternfly/patternfly-sass): A port of PatternFly from Less to Sass.
+
+
+## Related
+
+- [Hawt.io](http://hawt.io/): A modular web console for managing your Java stuff.
+
+- [OpenShift Console](https://github.com/openshift/origin-web-console/): The management console for OpenShift Origin.
+
+- [Fabric8](http://fabric8.io/): an opinionated open source microservices platform based on Docker, Kubernetes and Jenkins.
+
+- [Fabric8 Developer Console](https://github.com/fabric8io/fabric8-console): This project collects a number of hawtio plugins together to create a console for fabric8.
+
+- [Hawkular](http://www.hawkular.org/index.html): Open Source Monitoring Components.
+
+- [Plugins](http://hawt.io/plugins/index.html): Hawt.io plugins.
 
 
 ## Cuffs
@@ -36,9 +55,11 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 
 ## Other Awesome Lists
 
-* [Awesome](https://github.com/sindresorhus/awesome)
-* [Awesome-awesome](https://github.com/emijrp/awesome-awesome)
-* [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [Awesome](https://github.com/sindresorhus/awesome)
+
+- [Awesome-awesome](https://github.com/emijrp/awesome-awesome)
+
+- [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 ## License
 

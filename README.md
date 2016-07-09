@@ -38,6 +38,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Plugins](http://hawt.io/plugins/index.html): Hawt.io plugins.
 
 
+## Related
+
+- [PatternFly Demo App](https://github.com/patternfly/patternfly-demo-app): The PatternFly demo app serves as a boiler for building your production app with PatternFly, Node.JS, and Webpack.
+
+- [PatternFly Demo](https://github.com/andresgalante/patternfly-demo): Example app
+
+- [PatternFly Examples](https://github.com/erundle/patternfly-examples): Examples
+
+
 ## Cuffs
 
 A number of technologies, [Cuffs.io](http://cuffs.io) that have been heavily inspired by [PatternFly](https://www.patternfly.org) and [Hawt.io](http://hawt.io/) projects.

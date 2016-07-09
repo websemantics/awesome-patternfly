@@ -21,7 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Cuffs
 
-A number of technologies that have been heavily inspired by [PatternFly](https://www.patternfly.org) and [Hawt.io](http://hawt.io/) projects.
+A number of technologies, [Cuffs.io](http://cuffs.io) that have been heavily inspired by [PatternFly](https://www.patternfly.org) and [Hawt.io](http://hawt.io/) projects.
 
 - [Cuffs](https://github.com/cuffs/cuffs): UI framework for building modern web applications following common design patterns and improved user experience.
 

@@ -2,7 +2,7 @@
     ___                                             ____        __  __                  ________     
    /   |_      _____  _________  ____ ___  ___     / __ \____ _/ /_/ /____  _________  / ____/ /_  __
   / /| | | /| / / _ \/ ___/ __ \/ __ `__ \/ _ \   / /_/ / __ `/ __/ __/ _ \/ ___/ __ \/ /_  / / / / /
- / ___ | |/ |/ /  __(__  ) /_/ / / / / / /  __/  / ____/ /_/ / /_/ /_/  __/ /  / / / / __/ / / /_/ / 
+ / ___ | |/ |/ /  __(__  ) /_/ / / / / / /  __/  / ____/ /_/ / /_/ /_/  __/ /  / / / / __/ / / /_/ /
 /_/  |_|__/|__/\___/____/\____/_/ /_/ /_/\___/  / /    \__,_/\__/\__/\___/_/  /_/ /_/_/   /_/\__, /  
                                                /_/ A curated list of widgets and resources  /____/   
 ```
@@ -17,6 +17,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Widgets
 
 - [Example](https://github.com/example): Example text.
+
+
+## Cuffs
+
+A number of technologies that have been heavily inspired by [PatternFly](https://www.patternfly.org) and [Hawt.io](http://hawt.io/) projects.
+
+- [Cuffs](https://github.com/cuffs/cuffs): UI framework for building modern web applications following common design patterns and improved user experience.
+
+- [Bond](https://github.com/cuffs/bond): A set of common [Vue.js](https://vuejs.org/) components for use with [Cuffs](http://cuffs.io) reference implementation.
+
+- [Chains](https://github.com/cuffs/chains): A modular framework to build web console apps.
+
 
 ## Contributing
 

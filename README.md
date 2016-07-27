@@ -57,6 +57,12 @@ A number of technologies, [Cuffs.io](http://cuffs.io) that have been heavily ins
 
 - [Chains](https://github.com/cuffs/chains): A modular framework to build web console apps.
 
+## Similar
+
+If you love PatternFly, you might also like to know about:
+
+- [Awesome Ant Design](https://github.com/websemantics/awesome-ant-design): A list of resources for [Ant Design](http://ant.design),  an enterprise-class UI design language and React-based implementation.
+
 
 ## Contributing
 

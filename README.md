@@ -14,6 +14,7 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+
 ## Resources
 
 - [PatternFly](https://www.patternfly.org): A community of designers and developers collaborating to build a UI framework for enterprise web applications.
@@ -38,7 +39,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Plugins](http://hawt.io/plugins/index.html): Hawt.io plugins.
 
 
-## Related
+## Examples
 
 - [PatternFly Demo App](https://github.com/patternfly/patternfly-demo-app): The PatternFly demo app serves as a boiler for building your production app with PatternFly, Node.JS, and Webpack.
 
@@ -57,6 +58,7 @@ A number of technologies, [Cuffs.io](http://cuffs.io) that have been heavily ins
 
 - [Chains](https://github.com/cuffs/chains): A modular framework to build web console apps.
 
+
 ## Similar
 
 If you love PatternFly, you might also like to know about:
@@ -68,6 +70,7 @@ If you love PatternFly, you might also like to know about:
 
 Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/websemantics/awesome-patternfly/blob/master/contributing.md).
 
+
 ## Other Awesome Lists
 
 - [Awesome](https://github.com/sindresorhus/awesome)
@@ -75,6 +78,7 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 - [Awesome-awesome](https://github.com/emijrp/awesome-awesome)
 
 - [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+
 
 ## License
 

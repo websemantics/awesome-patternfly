@@ -5,7 +5,7 @@
      \  __\__\ \   AWESOME   \                                             
       \/\     \ \_____________\                                           
       /  \_____\/    _____    /                 ______        __  __                 _________
-   __/___/_____/____/\    \__/___________        - __ \____ _/ /_/ /____  _________  / ____/ / 
+   __/___/_____/____/\    \__/___________        - __ \____ _/ /_/ /____  _________  / ____/ /
   /\________________\ \    \_____________\      / /_/ / __ `/ __/ __/ _ \/ ___/ __ \/ /_  / / _   __
   \/________________/  \____\____________/     / ____/ /_/ / /_/ /_/  __/ /  / / / / __/ / // /  / /
   /   /     \    \  \  /    /                 / /    \__,_/\__/\__/\___/_/  /_/ /_/_/   /_// /__/ /
@@ -21,15 +21,25 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Table of Contents
 
-## Resources
+- [Official Resources](#official-resources)
+- [Related](#related)
+- [Demos](#demos)
+- [Cuffs](#cuffs)
+- [Similar](#similar)
+- [Contributing](#contributing)
 
-- [PatternFly](https://www.patternfly.org): A community of designers and developers collaborating to build a UI framework for enterprise web applications.
 
-- [Angular PatternFly](https://github.com/patternfly/angular-patternfly): A set of common AngularJS directives for use with the PatternFly reference implementation.
+## Official Resources
 
-- [PatternFly SASS](https://github.com/patternfly/patternfly-sass): A port of PatternFly from Less to Sass.
+- [PatternFly](https://www.patternfly.org): a community of designers and developers collaborating to build a UI framework for enterprise web applications.
 
+- [Angular PatternFly](https://github.com/patternfly/angular-patternfly): a set of common AngularJS directives for use with the PatternFly reference implementation.
+
+- [PatternFly SASS](https://github.com/patternfly/patternfly-sass): a port of PatternFly from Less to Sass.
+
+- [PatternFly Website](https://github.com/patternfly/patternfly-org), the PatternFly Org is the new source for the official documentation for PatternFly
 
 ## Related
 
@@ -46,13 +56,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Plugins](http://hawt.io/plugins/index.html): Hawt.io plugins.
 
 
-## Examples
+## Demos
 
 - [PatternFly Demo App](https://github.com/patternfly/patternfly-demo-app): The PatternFly demo app serves as a boiler for building your production app with PatternFly, Node.JS, and Webpack.
 
 - [PatternFly Demo](https://github.com/andresgalante/patternfly-demo): Example app
 
 - [PatternFly Examples](https://github.com/erundle/patternfly-examples): Examples
+
+- [Keycloak Cool Store](https://github.com/jbossdemocentral/brms-coolstore-demo-angular-patternfly): Remake of a retail online web shopping cart example, the Cool Store demo leverages JBoss BRMS, JBoss Developer Studio, AngularJS, Patternfly, Keycloak, and more.
+
+- [Patternfly Web](https://github.com/srambach/patternfly-web): A framework that OSS communities can use to build their websites, as well as projects like RH portal or RH Developers.
+
+- [Keycloak Demo](https://github.com/mohitsuman/keycloak-demo-angular): A framework that OSS communities can use to build their websites, as well as projects like RH portal or RH Developers.
+
+
+## Widgets
+
+- [Timeline](https://github.com/patternfly/patternfly-timeline), a time based / event series interactive visualization using d3.js. Use drag and zoom to navigate in time.
 
 
 ## Cuffs
